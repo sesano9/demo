@@ -1,6 +1,6 @@
 {
   "records": [
-    [
+    
       {
         "id": "0",
         "author": "Alejandro Escamilla",
@@ -241,6 +241,6 @@
         "url": "https://unsplash.com/photos/U5rMrSI7Pn4",
         "download_url": "https://picsum.photos/id/1025/4951/3301"
       }
-    ]
+    
   ]
 }
